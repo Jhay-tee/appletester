@@ -136,7 +136,7 @@ model = load_model()
 gatekeeper_model = load_gatekeeper_model()
 
 uploaded_file = st.file_uploader(
-    "Upload an apple image", type=["jpg", "jpeg", "png"]
+    "Upload an apple image", type=["jpg", "jpeg", "png", "webp"]
 )
 
 # -----------------------------------------------------------------------------
@@ -178,7 +178,7 @@ if uploaded_file:
         else:
             st.warning("This apple looks rotten. 🍎⚠️")
 else:
-    st.info("Upload a .jpg, .jpeg, or .png image of an apple to get a prediction.")
+    st.info("Upload a .jpg, .webp, .jpeg, or .png image of an apple to get a prediction.")
 
 st.divider()
 st.caption(
