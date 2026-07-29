@@ -65,3 +65,8 @@ MobileNetV2 (`tf.keras.applications.MobileNetV2(weights="imagenet")`) as a gatek
 
 This is a simple heuristic, not a certified out-of-distribution detector, but it stops the app from
 giving a confident-sounding wrong answer on completely unrelated images.
+
+
+##collaborators 
+
+NDON, KUKPONGABASI IME 23/EG/CV/024 Kp-Crypt
