@@ -98,8 +98,4 @@ Akpan Jonathan Otobong coordinated the group and handled deployment. Team member
 ## Notes
 
 - If your `model.keras` file is large (>100 MB) consider using Git LFS or hosting the model in cloud storage and downloading it at first run.  
-- This project is for educational purposes — treat predictions as experimental and do not use in safety-critical settings.
-
----
-
-If you'd like, I can also commit this README to a different branch or open a pull request instead of committing to the default branch.
+- This project is for educational purposes — treat predictions as experimental and do not use in safety-critical setting
