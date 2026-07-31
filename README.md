@@ -92,6 +92,7 @@ Akpan Jonathan Otobong coordinated the group and handled deployment. Team member
 | 5 | Asuquo Victory Imoh | 23/CV/EG/084 | [vickeeimoh123](https://github.com/vickeeimoh123) | Model evaluation |
 | 6 | Mbom, Unwana Ime | 24/EG/CV/184 | [Unmbi](https://github.com/Unmbi) | Application development |
 | 7 | Sunday, Ikakke-abasi David | 23/EG/CV/044 | [ikakkesunday27-star](https://github.com/ikakkesunday27-star) | Documentation and report writing |
+| 8 | Joel, Solomon Nsemo | 23/EG/CV/004 | [Jaysolomon-dev] (https://github.com /Jaysolomon-dev) | App testing and evaluation |
 
 ---
 
